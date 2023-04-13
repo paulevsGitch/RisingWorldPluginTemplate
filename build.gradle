@@ -1,0 +1,19 @@
+plugins {
+	id 'java'
+}
+
+def pathToRisingWorld = 'D:/SteamLibrary/steamapps/common/RisingWorld/_New Version'
+
+group 'template'
+version '1.0.0'
+
+sourceCompatibility = JavaVersion.VERSION_20
+targetCompatibility = JavaVersion.VERSION_20
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation files(pathToRisingWorld + '/Data/SDK/PluginAPI.jar')
+}

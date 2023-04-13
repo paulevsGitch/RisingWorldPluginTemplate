@@ -1,0 +1,8 @@
+name: ExamplePlugin
+main: example.ExamplePlugin
+version: 1.0.0
+author: <your name>
+team: <your team, optional>
+description: "Example Plugin"
+license: MIT
+website: http://www.myhomepage.com
