@@ -1,7 +1,7 @@
 # Rising World Plugin Template
 A simple template for making Rising World plugins.
 
-###How to use:
+### How to use:
 1. You need [JDK 20](https://jdk.java.net/20/) since Rising World uses same Java version for plugins.
 2. You need installed Rising World (Steam Version)
 3. Clone this repo (with `git clone` or with downloading as .zip).
@@ -11,7 +11,7 @@ A simple template for making Rising World plugins.
 7. Edit `plugin.yml` and add your credits. You can change main class path (don't forget to create/move main class if you will do this)
 8. Import project into your favourite IDE (IntelliJ Idea, Eclipse, Netbeans, etc.) and start making code
 
-###Building plugin
+### Building plugin
 If you are using IDE that has gradle integration you can just launch build task.
 If your IDE don't have such features open a terminal or cmd utility and use command
 `/gradlew build`.
