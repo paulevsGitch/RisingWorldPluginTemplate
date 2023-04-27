@@ -1,8 +1,8 @@
-name: ExamplePlugin
-main: example.ExamplePlugin
+name: PluginTemplate
+main: template.PluginTemplate
 version: 1.0.0
 author: <your name>
 team: <your team, optional>
-description: "Example Plugin"
+description: "Plugin Template"
 license: MIT
-website: http://www.myhomepage.com
+website: https://github.com/paulevsGitch/RisingWorldPluginTemplate
